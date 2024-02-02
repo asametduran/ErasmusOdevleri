@@ -1,0 +1,10 @@
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\bin\Debug\grafikDenemeNumarasi1.exe.config
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\bin\Debug\grafikDenemeNumarasi1.exe
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\bin\Debug\grafikDenemeNumarasi1.pdb
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\obj\Debug\grafikDenemeNumarasi1.csproj.AssemblyReference.cache
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\obj\Debug\grafikDenemeNumarasi1.Form1.resources
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\obj\Debug\grafikDenemeNumarasi1.Properties.Resources.resources
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\obj\Debug\grafikDenemeNumarasi1.csproj.GenerateResource.cache
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\obj\Debug\grafikDenemeNumarasi1.csproj.CoreCompileInputs.cache
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\obj\Debug\grafikDenemeNumarasi1.exe
+C:\Users\fkaya\source\repos\grafikDenemeNumarasi1\grafikDenemeNumarasi1\obj\Debug\grafikDenemeNumarasi1.pdb

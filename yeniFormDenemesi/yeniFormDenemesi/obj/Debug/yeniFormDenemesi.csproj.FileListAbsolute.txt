@@ -1,0 +1,10 @@
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\bin\Debug\yeniFormDenemesi.exe.config
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\bin\Debug\yeniFormDenemesi.exe
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\bin\Debug\yeniFormDenemesi.pdb
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\obj\Debug\yeniFormDenemesi.csproj.AssemblyReference.cache
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\obj\Debug\yeniFormDenemesi.Form1.resources
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\obj\Debug\yeniFormDenemesi.Properties.Resources.resources
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\obj\Debug\yeniFormDenemesi.csproj.GenerateResource.cache
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\obj\Debug\yeniFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\obj\Debug\yeniFormDenemesi.exe
+C:\Users\fkaya\source\repos\yeniFormDenemesi\yeniFormDenemesi\obj\Debug\yeniFormDenemesi.pdb
